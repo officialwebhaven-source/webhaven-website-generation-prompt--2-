@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://webhaven.co.za/sitemap.xml
